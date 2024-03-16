@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>642225651910-6qo3k012mfpc4cmdji5ftcpia3sepolh.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.642225651910-6qo3k012mfpc4cmdji5ftcpia3sepolh</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>642225651910-2rjlmguqbj15ote99i21e0n76evl4nk2.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC1ejGvBA8j5oA6hNjHLUvH_FbLGloHLDg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>642225651910</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.officialFortlineApp</string>
+	<key>PROJECT_ID</key>
+	<string>fortlineapplication</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fortlineapplication.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:642225651910:ios:74114a659072d5531bd7c7</string>
+</dict>
+</plist>
